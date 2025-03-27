@@ -1,7 +1,7 @@
 # *nix only
 export RG="reddog"
-export LOCATION="eastus2"
-export SUB_ID="<YourSubscriptionID>"
+export LOCATION="mortheurope>
+export SUB_ID="1adcbc08-e76c-4dcf-8bc4-7b917a30641f"
 
 # Follow Azure CLI prompts to authenticate to your subscription of choice
 az login
